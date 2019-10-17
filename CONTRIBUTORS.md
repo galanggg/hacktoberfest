@@ -1,12 +1,10 @@
-﻿
+﻿#### Name: [Parth Gupta](https://github.com/parthgpta)
 
- #### Name: [Parth Gupta](https://github.com/parthgpta)
-
-- Place:  India
+- Place: India
 - Bio: Learning New Things
 - GitHub: [parth](https://github.com/parthgpta)
 
- #### Name: [Mukhammad Akbar](https://codelatte.org/)
+#### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
@@ -655,6 +653,7 @@
 - GitHub: [GeneralPlatypus](https://github.com/GeneralPlatypus)
 
 =======
+
 #### Name: [Yudha Pratama](https://github.com/kudkud32)
 
 - Place: Yogyakarta, Indonesia
@@ -704,11 +703,13 @@
 -Github: [aayushsaini1](https://github.com/aayushsaini1)
 
 #### Name: [subham](https://github.com/subhamagrawal7)
+
 - Place: Surat, Gujarat, India
 - Bio: - Student
 - Github: [subhamagrawal7](https://github.com/subhamagrawal7)
 
 #### Name: [Manas Bichoo](https://github.com/manasbichoo)
+
 - Place: Indore, MP, India
 - Bio: - ML Intern at Hotwax systems.
 - Github: [manasbichoo](https://github.com/manasbichoo)
@@ -720,82 +721,103 @@
 - GitHub: [0dayherman](https://github.com/KasunHasanga)
 
 #### Name: [Jordy Araujo](https://github.com/jordyaraujo)
+
 - Place: Natal-RN, Brazil
 - Bio: - Student
 - Github: [JordyAraujo](https://github.com/jordyaraujo)
 
-
 #### Name: [Deep](https://github.com/deepralhan26)
+
 - Place: Panipat ,Haryana ,India
 - Bio: - Student
 - Github: [deepralhan26](https://github.com/deepralhan26)
 
 #### Name: [ASEEMMUHAMMAD A R](https://github.com/iamaseem)
+
 - Place: Calicut ,Kerala ,India
 - Bio: - Student
 - Github: [iamaseem](https://github.com/iamaseem)
 
 #### Name: [SHUBHAM VERMA](https://github.com/shubhamvrm)
+
 - Place: Lajpat Nagar ,Delhi ,India
 - Bio: - Student
 - Github: [shubhamvrm](https://github.com/shubhamvrm)
 
 #### Name: [TEJAS AMLE](https://github.com/TejasAmle)
+
 - Place: Greater Noida, UP, India
 - Bio: Undergrad
 - GitHub: [Tejas Amle](https://github.com/TejasAmle)
 
 #### Name: [Mak the Lad](https://github.com/maklad42)
+
 - Place: Tokyo, Japan
 - Bio: - Sitting out Typhoon Hagibis!
 - Github: [maklad42](https://github.com/maklad42)
 
 #### Name: [Abhishek Sontakke](https://github.com/abhishek3008)
+
 - Place: New Delhi, India
 - Bio: - Application Developer | Winner at Singapore India Hackathon 2019
 - Github: [abhishek3008](https://github.com/abhishek3008)
 
 #### Name: [Rishav Mishra](https://github.com/Rishav0809)
+
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
 
 #### Name: [Isuri Kavindini](https://github.com/isuri9734)
+
 - Place: Colombo,Sri Lanka
 - Bio: Student
 - Github: [isuri9734](https://github.com/isuri9734)
 
 #### Name: [Abdurahman Argoebie](https://github.com/abdurahmanrizal)
+
 - Place: Semarang, Indonesia
 - Bio: - Freshgraduate
 - Github: [abdurahmanrizal](https://github.com/abdurahmanrizal)
 
 #### Name: [Anthony Reese](https://github.com/reesea)
+
 - Place: Dubai, UAE
 - Bio: Student
 - GitHub: [Anthony Reese](https://github.com/reesea)
 
 #### Name: [Anand Gaurav](https://github.com/anand31)
+
 - Place: Lucknow, India
 - Bio: - Undergraduate
 - Github: [anand31](https://github.com/anand31)
 
 #### Name: [Jai Janyani](https://github.com/JAIJANYANI)
+
 - Place: Guragon, India
 - Bio: - Developer
 - Github: [JAI JANYANI](https://github.com/JAIJANYANI)
 
 #### Name: [Ranjan Kr Kushwaha](https://github.com/ranjan352)
+
 - Place: Haryana, India
 - Bio: - Undergraduate
 - Github: [ranjan352](https://github.com/ranjan352)
 
 #### Name: [Fatima Mubeen](https://github.com/FatimaMubeenSh)
+
 - Place: Lahore, Punjab, Pakistan
-- Bio: Software Engineer | Aspire Web Dev 
+- Bio: Software Engineer | Aspire Web Dev
 - GitHub: [FatimaMubeenSh](https://github.com/FatimaMubeenSh)
 
 #### Name: [Sarthak Aggarwal](https://github.com/neo700)
+
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Galang Kerta](https://github.com/galanggg)
+
+- Place: Bali, Indonesia
+- Bio: - Undergraduate
+- Github: [Galanggg](https://github.com/galanggg)
